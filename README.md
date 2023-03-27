@@ -5,15 +5,6 @@ A new Flutter project.
 
 
 
-## Getting Started
+## What is Ei-Learning and its benefits?
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Refers to a form of education where students have the flexibility to learn at their own pace and convenience, without being restricted by location or time.
